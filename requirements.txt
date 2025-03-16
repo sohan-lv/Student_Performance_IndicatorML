@@ -2,6 +2,9 @@ pandas
 numpy
 scikit-learn
 seaborn
--e .
+matplotlib
+catboost
+xgboost
+#-e .
 # -e . is for local development
 # -e . means install the package in editable mode
