@@ -1,3 +1,5 @@
+> Made by Sohan L V | University of South Florida |
+
 # Student Performance Analysis using ML
 
 This project analyzes how various demographic and educational factors impact student performance in standardized exams. It combines exploratory data analysis (EDA) and machine learning modeling to identify patterns and make performance predictions.
@@ -54,4 +56,3 @@ The objective is to understand how a student's test scores are influenced by fac
 3. Run notebooks:  
    Open `.ipynb` files in Jupyter or VS Code
 
-> Made by Sohan L V | University of South Florida |
